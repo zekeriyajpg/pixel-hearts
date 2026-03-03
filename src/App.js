@@ -31,7 +31,7 @@ const App = () => {
           }}
           onClick={handleHeartClick}
         >
-          ❤️
+          💙
         </div>
       </div>
 
